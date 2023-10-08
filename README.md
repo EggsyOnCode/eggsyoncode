@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eggsyoncode&label=Profile%20views&color=0e75b6&style=flat" alt="eggsyoncode" /> </p>
 <img aling="right" alt="Coding" width="400" src="https://assets.editorial.aetnd.com/uploads/2012/05/self-portrait-by-leonardo-da-vinci.jpg"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eggsyoncode" alt="eggsyoncode" /></a> </p>
-
 - 🔭 I’m currently working on [WebRTC-VideoConferencing](https://github.com/EggsyOnCode/videoConference-webRTC)
 
 - 🌱 I’m currently learning **Java Spring Boot and Kotlin**
