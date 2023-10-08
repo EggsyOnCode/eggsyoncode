@@ -2,7 +2,10 @@
   <img src="https://assets.editorial.aetnd.com/uploads/2012/05/self-portrait-by-leonardo-da-vinci.jpg" alt="Coding" width="400">
 </div>
 <h1 align="center">Hi 👋, I'm Farzan Saqib</h1>
-<h3 align="center">I am a Full Stack Web and App developer interested in Blockchain Technology.</h3>
+<h3 align="center">I am a Full Stack Web and App developer interested in Blockchain Technology</h3>
+<div align="center">
+<h3>:-) Also an Aspiring Polymath just like the man above!</h3>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eggsyoncode&label=Profile%20views&color=0e75b6&style=flat" alt="eggsyoncode" /> </p>
 
