@@ -1,4 +1,6 @@
-<img align="center" alt="Coding" width="450" src="https://assets.editorial.aetnd.com/uploads/2012/05/self-portrait-by-leonardo-da-vinci.jpg"/>
+<div align="center">
+  <img src="https://assets.editorial.aetnd.com/uploads/2012/05/self-portrait-by-leonardo-da-vinci.jpg" alt="Coding" width="400">
+</div>
 <h1 align="center">Hi 👋, I'm Farzan Saqib</h1>
 <h3 align="center">I am a Full Stack Web and App developer interested in Blockchain Technology.</h3>
 
