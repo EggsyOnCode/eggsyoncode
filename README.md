@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farzan Saqib</h1>
 <h3 align="center">I am a Full Stack Web and App developer interested in Blockchain Technology.</h3>
-<img aling="right" alt="Coding" width="400" src="https://assets.editorial.aetnd.com/uploads/2012/05/self-portrait-by-leonardo-da-vinci.jpg"/>
+<img aling="center" alt="Coding" width="400" src="https://assets.editorial.aetnd.com/uploads/2012/05/self-portrait-by-leonardo-da-vinci.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eggsyoncode&label=Profile%20views&color=0e75b6&style=flat" alt="eggsyoncode" /> </p>
 
