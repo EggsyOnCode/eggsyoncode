@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [WebRTC-VideoConferencing](https://github.com/EggsyOnCode/videoConference-webRTC)
 
-- 🌱 I’m currently learning **Java Spring Boot and Kotlin**
+- 🌱 I’m currently learning **Spring Boot and Software Testing**
 
 - 👨‍💻 All of my projects are available at [https://eggsyoncode.github.io/](https://eggsyoncode.github.io/)
 
