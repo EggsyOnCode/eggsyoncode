@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eggsyoncode&label=Profile%20views&color=0e75b6&style=flat" alt="eggsyoncode" /> </p>
 
-- 🔭 I’m currently working on [WebRTC-VideoConferencing](https://github.com/EggsyOnCode/videoConference-webRTC)
+- 🔭 I’m currently working on **NestJS and Search Engines**
 
 - 🌱 I’m currently learning **Spring Boot and Software Testing**
 
