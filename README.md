@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and Software Testing**
 
-- ** Preferred Tech Stack: Angular, NestJS, AWS, React ** (cuz of widespread usage and speed)
+- **Preferred Tech Stack: Angular, NestJS, AWS, React** (cuz of widespread usage and speed)
 
 - 👨‍💻 All of my projects are available at [https://eggsyoncode.github.io/](https://eggsyoncode.github.io/)
 
